@@ -161,5 +161,6 @@ cython_debug/
 
 .vscode/
 data/*
+models/*
 
 !.gitkeep
