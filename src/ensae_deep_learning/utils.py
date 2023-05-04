@@ -32,7 +32,7 @@ def summary_model(model, config):
     )
     input_t = torch.rand(config["batch_size"])
 
-    summary(model, input_data=[input_data, input_t])
+    return summary(model, input_data=[input_data, input_t])
 
 
 def print_sde_dim(config):
