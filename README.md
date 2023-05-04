@@ -2,8 +2,7 @@
 
 [![Code quality](https://github.com/baptiste-pasquier/ensae-deep-learning/actions/workflows/quality.yml/badge.svg)](https://github.com/baptiste-pasquier/ensae-deep-learning/actions/workflows/quality.yml)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baptiste-pasquier/ensae-deep-learning/)
 
 ## Installation
 
