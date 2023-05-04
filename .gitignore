@@ -163,4 +163,9 @@ cython_debug/
 data/*
 models/*
 
+!models/EMNIST_2/
+!models/FashionMNIST_5/
+!models/FLOWERS_41/
+!models/MNIST_2/
+
 !.gitkeep
